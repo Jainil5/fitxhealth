@@ -33,9 +33,8 @@ It combines the power of **Amazon Strands-Agent SDK** and an **open-source GPT m
 
 ## 🚀 Tech Stack  
 
-- **Amazon Strands-Agent SDK** – Agent orchestration & conversational flows  
-- **Open-source GPT model** – Natural language understanding & response generation  
-- **Nutrition/Exercise datasets** – For calorie calculations (e.g., USDA, FDC, or custom DB)  
+- **AI AGENT - using Amazon Strands-Agent SDK** – Agent orchestration & conversational flows  
+- **Open-source GPT model** – Natural language understanding & response generation.  
 - **Python / FastAPI (optional)** – For backend & API integrations  
 
 ---
